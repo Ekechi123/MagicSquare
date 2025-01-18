@@ -23,3 +23,4 @@ This project provides a set of utility functions for various common tasks, inclu
 ### Clone the Repository
 
 ```bash
+https://github.com/Ekechi123/MagicSquare.git
